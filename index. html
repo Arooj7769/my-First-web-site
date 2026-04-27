@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello world</title></head>
+<body>
+   <h1>Arooj hasnain</h1>
+   <p1>Welcome to my page</p1>
+   <h3>About me</h3>
+   <p>this is my first page</p>
+   <p>iam learning HTML</p>
+   <hr>
+   <ul>
+       <li> HTML</li>
+       <li> CSS</li>
+       <li>JavaScript</li>
+</ul>
+</body>
+</html>
